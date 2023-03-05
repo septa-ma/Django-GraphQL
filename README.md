@@ -38,9 +38,9 @@
             - author { 
                 - name
                 - age
-             }
-         }
-     }
+            - }
+        - }
+    - }
 - exposess a single endpoint
 - responds with precise data from client requests
 - enables declarative data fetching
